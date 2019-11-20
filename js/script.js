@@ -1,5 +1,6 @@
 $("#shoot").click(function() {
-  let idea = $("#input").val();
+  let shfasasdioasd = $("#input").val();
+  let idea = shfasasdioasd.toLowerCase();
   $("#userChoice").html(idea);
   let comp = Math.random();
   if (comp > .66) {
